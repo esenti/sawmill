@@ -1,0 +1,341 @@
+Shop: Job
+Job: job0
+RGB: 154;200;105
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;26.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;10.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;19.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job1
+RGB: 44;159;23
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;31.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;9.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job2
+RGB: 176;132;123
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;38.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;8.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job3
+RGB: 121;22;71
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;28.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;5.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;14.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job4
+RGB: 99;59;165
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;24.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;9.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;25.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job5
+RGB: 175;69;144
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;40.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;8.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;18.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job6
+RGB: 60;164;6
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;28.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;12.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;9.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job7
+RGB: 164;195;53
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;27.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;12.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;26.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job8
+RGB: 242;97;248
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;44.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;6.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;24.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job9
+RGB: 85;160;150
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;29.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;6.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job10
+RGB: 118;216;164
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;33.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;5.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;27.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job11
+RGB: 186;146;15
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;32.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;13.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;16.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job12
+RGB: 163;19;11
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;33.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;13.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job13
+RGB: 213;139;222
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;34.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;12.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;22.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job14
+RGB: 79;213;83
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;32.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;9.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job15
+RGB: 106;129;34
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;32.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;7.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job16
+RGB: 225;182;147
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;36.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;12.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job17
+RGB: 234;106;57
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;35.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;5.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;24.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job18
+RGB: 223;120;160
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;25.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;3.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;12.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job19
+RGB: 50;221;239
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;24.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;9.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;33.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job20
+RGB: 27;89;19
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;14.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;14.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;25.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job21
+RGB: 1;63;22
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;24.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;15.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job22
+RGB: 55;70;44
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;37.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;14.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;21.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job23
+RGB: 166;193;36
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;40.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;14.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job24
+RGB: 160;224;61
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;36.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;13.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;13.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job25
+RGB: 141;251;4
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;36.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;5.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;12.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job26
+RGB: 0;46;12
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;18.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;10.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;23.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job27
+RGB: 74;161;212
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;22.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;12.0;A
+Oper: Belki -> Magazyn;2;A
+Job: job28
+RGB: 50;226;134
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;22.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;6.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;13.0;A
+Oper: Deski -> Magazyn;2;A
+Job: job29
+RGB: 12;5;220
+Release: 0
+Due: 0
+Weight: 1
+Oper: Magazyn -> Korowanie;2;A
+Oper: Korowanie;29.0;A
+Oper: Korowanie -> Belki;2;A
+Oper: Belki;10.0;A
+Oper: Belki -> Deski;2;A
+Oper: Deski;23.0;A
+Oper: Deski -> Magazyn;2;A
